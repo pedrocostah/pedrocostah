@@ -3,6 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/)  
 💡 Apaixonado por tecnologia, inovação social e desenvolvimento de soluções com impacto real  
 🚀 Em busca de uma oportunidade de estágio em tecnologia
+
 📍 Localização: São Paulo, SP – Brasil
 
 ## 💻 Sobre mim
