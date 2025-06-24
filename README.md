@@ -22,7 +22,7 @@ Também tenho estudado com foco em:
 
 ## 🌱 Atualmente estudando
 
-- 🐍 Python + APIs
+- 🐍 Python
 - 🚀 Java
 - 🗃️ SQL (MySQL e Oracle)
 - ☁️ Fundamentos de AWS
