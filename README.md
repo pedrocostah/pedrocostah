@@ -33,7 +33,7 @@ Também tenho estudado com foco em:
 ## 📂 Repositórios em destaque
 
 - [`SOS-Desastres-Naturais`](https://github.com/global-solution-01/frontend-gs-01) — Plataforma de suporte a emergências climáticas  - HTML, CSS e Javascript
-- [`SOS-Desastres-Naturais`](https://github.com/pedrocostah/sos-desastres-naturais-java) — Plataforma de suporte a emergências climáticas  - Java
+- [`SOS-Desastres-Naturais`](https://github.com/pedrocostah/sos-desastres-naturais-java) — Plataforma de suporte a emergências climáticas  - Projeto de Menu de Opções em Java
 - [`Pokédex`](https://github.com/pedrocostah/Pokedex-project) — Construi uma Pokédex - HTML, CSS e Javascript
 - [`Saúde Digital`](https://github.com/challenge32/challenge) — Plataforma de apoio a Teleconsultas no Hospital das Clínicas - IMREA - HTML, CSS e Javascript 
 - [`Saúde Digital`](https://github.com/pedrocostah/challenge_python) — Plataforma de apoio a Teleconsultas no Hospital das Clínicas - IMREA - Projeto de Menu de Opções em Python
