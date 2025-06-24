@@ -2,8 +2,8 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br/)  
 💡 Apaixonado por tecnologia, inovação social e desenvolvimento de soluções com impacto real  
-🚀 Em busca de uma oportunidade de estágio em tecnologia
-📍 Localização: São Paulo, SP – Brasil
+🚀 Em busca de uma oportunidade de estágio em tecnologia.
+
 
 ## 💻 Sobre mim
 
@@ -41,5 +41,6 @@ Também tenho estudado com foco em:
 ## 📫 Como me encontrar
 
 - ✉️ pedrocostahv@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrocostahc/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrocostahc/)
+- 📍 Localização: São Paulo, SP – Brasil
 
