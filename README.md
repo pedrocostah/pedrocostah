@@ -40,6 +40,6 @@ Também tenho estudado com foco em:
 
 ## 📫 Como me encontrar
 
-- ✉️ [Email](pedrocostahv@gmail.com)
+- ✉️ pedrocostahv@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrocostahc/)  
 
